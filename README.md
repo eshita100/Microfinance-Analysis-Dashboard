@@ -37,3 +37,16 @@ Answered by: Identifying the region with the highest Repayment % (e.g., Chittago
 -What is the worst-performing region?
 
 Answered by: Identifying the region with the highest Default Rate (e.g., Rajshahi in the provided dataset snippet).
+
+
+## Dashboard
+<img width="1364" height="619" alt="image" src="https://github.com/user-attachments/assets/c5ce9531-c689-4e28-ba1c-45fc5bdd15e2" />
+
+## Project Insights (Key Data Findings)
+
+-The Rajshahi region exhibits a critical risk profile, accounting for 100% of the recorded default rate
+-Female borrowers represent the majority of the portfolio (4 out of 6 segmented loans and the highest total disbursed amount, $195,000).
+-The Chittagong region stands out with a 100% Repayment Percentage (on its single loan), setting it as a model area.
+-Dhaka (Avg. Loan Size $\approx \$41,667$) and Rajshahi (Avg. Loan Size $\approx \$40,000$) have the highest average loan sizes. 
+
+
