@@ -2,23 +2,38 @@
 ## Project Objective
 To design and implement a comprehensive Microfinance Analytics Dashboard that visualizes key lending performance indicators (KPIs), tracks repayment trends, and identifies regional and demographic risk factors (like  default rates) to provide actionable, data-driven insights for optimizing BRAC's loan strategies and risk management.
 ## Questions:
--What is the current lending risk profile?
+-What is the typical size of a microfinance loan?
 
-KPI: Overall Default Rate (%) (The percentage of loans or value that have defaulted).
+Answered by: Average Loan Size.
 
-Which demographic segment (Gender) is driving the highest repayment success?
+-Is our lending activity growing or declining over time?
 
-KPIs: Repayment Percentage by Gender and Total Loans by Gender.
+Answered by: Monthly Disbursed Trend.
 
-3. Trend and Segmentation Analysis
-How has the microfinance portfolio performed over time?
+-In which months did we see the highest/lowest repayment success?
 
-KPI: Monthly Trend in Disbursed vs. Repaid Amounts.
+Answered by: Spikes and dips in the Repayment Percentage line over the months.
 
-Which regions exhibit the highest risk?
+-Which regions are the most active in terms of loan volume and value?
 
-KPIs: Default Rate by Region and Repayment Percentage by Region.
+Answered by: Region-wise breakdown showing Total Loans and Total Disbursed.
 
-Is loan size significantly different across different regions?
+-Which regions pose the highest risk of default?
 
-KPI: Average Loan Size by Region.
+Answered by: Region-wise Default Rate (e.g., as seen in the map/table).
+
+-How does regional performance (Repayment %) vary across the country?
+
+Answered by: Repayment % by Region (visualized on the map or table).
+
+-How does gender influence lending activity and repayment success?
+
+Answered by: Gender breakdown of Total Loans, Disbursed, and Repaid amounts.
+
+-What is the best-performing region?
+
+Answered by: Identifying the region with the highest Repayment % (e.g., Chittagong in the provided dataset snippet).
+
+-What is the worst-performing region?
+
+Answered by: Identifying the region with the highest Default Rate (e.g., Rajshahi in the provided dataset snippet).
